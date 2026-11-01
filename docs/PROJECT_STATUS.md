@@ -1,6 +1,6 @@
 # Make My Marriage — Project Status
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-11-01
 
 This is the ongoing record of major development milestones. Read it before
 starting development and update it whenever a major feature is implemented or
@@ -42,6 +42,11 @@ source to GitHub. The implemented scope includes concurrent last-Admin protectio
 The user has confirmed the app is live on Vercel, database connectivity and
 invitation emails are working, and a custom domain is configured. These are
 user-reported production results, not an independent production audit.
+
+On 2026-11-01, the user confirmed this document as the ongoing project progress
+log. The application scaffold and public homepage are already recorded below as
+milestones 1 and 2. No new major product feature was completed as part of this
+documentation update.
 
 | Milestone | Status | Recorded on |
 | --- | --- | --- |
